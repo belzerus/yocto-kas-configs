@@ -8,8 +8,8 @@ target:
 
 repos:
   poky:
-    url: https://git.yoctoproject.org/git/poky
-    refspec: master
+    url: https://github.com/Technux/poky.git
+    refspec: petterm/yp_bug_8455
     layers:
       meta:
       meta-poky:
